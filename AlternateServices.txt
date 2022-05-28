@@ -1,0 +1,6 @@
+https:cdn.jsdelivr.net:443:.::3	0	19140	https:cdn.jsdelivr.net:443:cdn.jsdelivr.net:443::n:1653741790:h3:n:1653740865:n::|n:y:
+https:r5---sn-n4g-jqbed.gvt1.com:443:.::3	0	19140	https:r5---sn-n4g-jqbed.gvt1.com:443:r5---sn-n4g-jqbed.gvt1.com:443::n:1656333034:h3:y:1653740865:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19140	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1656334685:h3:y:1653740865:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:fonts.googleapis.com:443:.::3	0	19140	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1656333222:h3:y:1653740865:n::|n:y:
+https:fonts.gstatic.com:443:.::3	0	19140	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1656333222:h3:y:1653740865:n::|n:y:
+https:redirector.gvt1.com:443:.::3	0	19140	https:redirector.gvt1.com:443:redirector.gvt1.com:443::n:1656333033:h3:y:1653740865:n::|n:y:
